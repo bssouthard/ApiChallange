@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(240, 6, 6);
+}
+
+.windowed {
+    margin-top: 10pc;
+    margin-left: 10pc;
+    margin-right: 10pc;
+    background-color: red;
+    padding: 30px;
+}
+.headertag {
+margin-top: 7%;
+text-align: center;
+color: red;
+
+}
